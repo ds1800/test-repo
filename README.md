@@ -1,6 +1,6 @@
 # test-repo
 ## This is a test repo
-. one
-. two
+* one
+* two
 end of file
 
